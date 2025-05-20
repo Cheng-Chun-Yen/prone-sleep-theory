@@ -43,3 +43,18 @@ Authorship and originality are based on the **initial commit history**, **PDF fi
 **GitHub Release** 發佈於 **2025 年 5 月 20 日**，僅為版本封存之用，  
 目的在於對倉庫當前狀態進行公開標記與打包。  
 本理論之著作完成與原創性證明，依據為：**初始 commit 記錄**、**PDF 檔案時間戳記**、與 **GitHub Pages 發佈紀錄**，均可追溯至 **2025 年 5 月 5 日**。
+
+
+---
+
+### 📌 Additional Note | 補充說明
+
+This version is an early conceptual draft, publicly released on May 5, 2025.  
+It is intended as a record of original authorship and timestamped disclosure.  
+The content is incomplete and will be continuously revised in future versions.
+
+本版本為概念性初步草稿，於 2025 年 5 月 5 日公開，  
+目的在於建立原創時間戳與發表紀錄。內容尚未完整，  
+未來版本將持續修正與補充。
+
+
