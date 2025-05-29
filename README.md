@@ -18,8 +18,9 @@ serving as the foundation of the **Theory of Sleep Instinct**.
 
 ---
 
-> 📎 Note: This version is an early conceptual draft and does not represent the final structure.  
-> A more complete version is under development and will be released as v2.0.
+> ℹ️ Note: This is an early conceptual draft (V1.0 Draft) and **not** the finalized release.  
+> The official version of the Theory of Sleep Instinct will be published separately.
 
-> 📎 附註：本版本為概念性草稿，非最終版本結構。  
-> 更完整的內容將於 v2.0 版本公開。
+> ℹ️ 附註：本版本為草案版 V1.0，尚非正式發佈稿。  
+> 《睡眠本能理論》正式版將於後續日期獨立公開。
+
